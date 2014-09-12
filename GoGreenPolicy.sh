@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# This script implements the UAL GoGreen Policy
+# This script implements the Go Green Policy
 
-# Author  r.purves@arts.ac.uk
+# Author      : contact@richard-purves.com
 # Version 1.0 : 18-10-2012 - Initial Version
 # Version 2.0 : 16-01-2013 - Massively revamped version of JAMF's original script
 #							 Revamped shutdown to quit running tasks as this wasn't reliable.
